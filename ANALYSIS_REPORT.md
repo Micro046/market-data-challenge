@@ -323,15 +323,3 @@ Complete analysis code available in: `market_data_analysis.ipynb`
 
 ---
 
-## Contact Information
-
-For questions regarding this analysis or to request additional investigation, please contact:
-- Email: challenge-submission@blockshop.org
-- Subject Line: ETH-BTC Market Analysis Follow-up
-
----
-
-**Report End**
-
-*This analysis was conducted using Python-based data science tools including pandas, numpy, matplotlib, seaborn, and scipy. All findings are based on objective statistical analysis and established market microstructure theory.*
-
